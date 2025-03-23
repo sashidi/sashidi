@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ui/ux 
 - 📫 How to reach me sashidih@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to read books!
+- ⚡ Fun fact: I love to play MLBB!
 
 <!---
 sashidi/sashidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
